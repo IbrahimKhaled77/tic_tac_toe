@@ -4,13 +4,14 @@ project_Flutter:State_Management (Bloc(cubit));
 
 ## The Have you played x or o app allows you to play with two people
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## image 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20230626_150615](https://github.com/IbrahimKhaled77/tic_tac_toe/assets/116188398/2e5c8147-5c4b-4b7a-a66a-ef9ee3872129)
+
+
+
+## image 2
+
+![Screenshot_20230626_150629](https://github.com/IbrahimKhaled77/tic_tac_toe/assets/116188398/71801c3b-524f-4c97-9829-92b0bbdb9061)
