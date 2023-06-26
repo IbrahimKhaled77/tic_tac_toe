@@ -1,8 +1,8 @@
 # tictactoe
 
-A new Flutter project.
+project_Flutter:State_Management (Bloc(cubit));
 
-## Getting Started
+## The Have you played x or o app allows you to play with two people
 
 This project is a starting point for a Flutter application.
 
